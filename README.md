@@ -1,10 +1,10 @@
 # Beyond the Flat: What Really Drives HDB Resale Value 
-<img src="".\images\pinnacle_logo1.png" height="100" align="right" alt="Pinncale Ventures" style="position:relative; top:-85px;">
+<img src=".\images\pinnacle_logo1.png" height="200" align="right" alt="Pinncale Ventures" style="position:relative; top:-85px;">
 
 <p style="color:#6a737d; font-style:italic;">
   Presented By: Pinnacle Ventures (Alina, Daniel, Leon, Nigel, Rei, Tiffany)
 </p>
-<img src="C:\Users\Admin\Desktop\Data Sprint\images\hdb_photo.jpg" height = "500" alt="Pinnacle Ventures" >
+<img src=".\images\hdb_photo.jpg" height = "500" alt="Pinnacle Ventures" >
 
 ## Description
 HDB resale value isn’t just “near an MRT” anymore—it’s a mix of micro factors (floor area, remaining lease/age, block height, proximity to malls/hawkers and MRT/bus, schools, neighbourhood “affluence”) and macro signals (CPI, GDP, income, demand, month/year, upcoming MRT). Our model blends these into a single prediction of resale_price, grounded in how real buyers value space, access, schools, and timing.
