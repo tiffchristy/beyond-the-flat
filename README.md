@@ -1,5 +1,5 @@
 # Beyond the Flat: What Really Drives HDB Resale Value 
-<img src=""C:\Users\Admin\Desktop\Data Sprint\images\pinnacle_logo1.png" height="100" align="right" alt="Pinncale Ventures" style="position:relative; top:-85px;">
+<img src="".\images\pinnacle_logo1.png" height="100" align="right" alt="Pinncale Ventures" style="position:relative; top:-85px;">
 
 <p style="color:#6a737d; font-style:italic;">
   Presented By: Pinnacle Ventures (Alina, Daniel, Leon, Nigel, Rei, Tiffany)
